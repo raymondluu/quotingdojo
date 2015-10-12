@@ -1,0 +1,47 @@
+*{
+	/*outline: 1px solid red;*/
+}
+div.container{
+	width: 400px;
+	min-height: 600px;
+	margin: 0px auto;
+}
+	h2.inline{
+		display: inline;
+	}
+	input.name{
+		margin-right: 100px;
+		margin-bottom: 10px;
+	}
+	textarea{
+		width: 250px;
+		height: 150px;
+		vertical-align: top;
+		resize: none;
+	}
+	input.button{
+		margin-top: 20px;
+		margin-right: 50px;
+		margin-left: 50px;
+		display: inline-block;
+	}
+	h1.centered{
+		text-align: center;
+	}
+div.container1{
+	width: 800px;
+	min-height: 600px;
+	margin: 0px auto;
+}
+	div.container1 h2{
+		text-align: center;
+	}
+	p{
+		margin-left: 100px;
+	}
+	p.indent{
+		margin-left: 200px;
+	}
+	hr{
+		width: 600px;
+	}
